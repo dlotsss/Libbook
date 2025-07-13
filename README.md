@@ -1,7 +1,7 @@
 # **Libbook - A Platform for Writers and Readers**
 
 ## **Overview**
-Libbook is  an innovative .In an era where countless books are published daily, it can be challenging for new authors to gain visibility. Libbook provides an accessible space for readers to **discover fresh content** while offering writers an opportunity to **share their stories with the world**.
+Libbook is  an innovative online .In an era where countless books are published daily, it can be challenging for new authors to gain visibility. Libbook provides an accessible space for readers to **discover fresh content** while offering writers an opportunity to **share their stories with the world**.
 
 ## **Features**
 - 📖 **Discover New Books** – Read the latest novels and bestsellers for free.
